@@ -60,4 +60,3 @@ The model successfully identifies handwritten digits with approximately 95.76% t
 ## Project Files
 - mnist_handwritten_digit_classification.ipynb
 - mnist_digit_model.keras
--
